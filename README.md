@@ -1,5 +1,7 @@
 Sini Dek Bentar Sistem Informasi Deteksi Benda Berbahaya
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![alt text](https://raw.githubusercontent.com/AnandaRauf/Sini-Dek-Bentar-Sistem-Informasi-Deteksi-Benda-Berbahaya/main/scanimg.png)
+
 
 Developed date : 05 Oktober 2021.
 Developed by : Ananda Rauf Maududi / Media Pengembangan Teknolgi Indonesia Jaya.
