@@ -1,0 +1,8 @@
+dev_dependencies:
+flutter_launcher_icons: "^0.9.2"
+
+flutter_icons:
+image_path: "asset/gambar/scanimg.png"
+image_path_android : "asset/gambar/scanimg.png"
+android: true
+ios: true

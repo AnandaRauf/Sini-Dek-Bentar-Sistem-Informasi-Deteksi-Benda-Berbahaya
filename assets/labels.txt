@@ -1,0 +1,4 @@
+0 Jenis benda : Tajam
+1 Nama benda : Pisau
+2 Jenis benda : Narkotika
+3 Nama benda : Sabu
