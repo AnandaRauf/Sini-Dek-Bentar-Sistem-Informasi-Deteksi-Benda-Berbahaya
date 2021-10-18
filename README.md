@@ -1,24 +1,45 @@
-# deteksi_benda_berbahaya
+Sini Dek Bentar Sistem Informasi Deteksi Benda Berbahaya
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-A new Flutter project created with [FlutLab](https://flutlab.io)
+Developed date : 05 Oktober 2021.
+Developed by : Ananda Rauf Maududi / Media Pengembangan Teknolgi Indonesia Jaya.
+Release date : 18 Oktober 2021.
 
-### Getting Started: FlutLab - Flutter Online IDE
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+How to open project :
+- Download VS Code : https://www.visualstudiocode.microsoft.com/downloads
+- Plugin Dart and SDK in VS Code.
+- Flutter SDK : https://flutter.dev
 
-- Watch Mini crash course "How to use Flutter Widgets" on [FlutLab Youtube Channel](https://www.youtube.com/channel/UC7ZOPQm4JFlvBc9WeynLX_g)
-- Discover a marketplace of ready-to-use Flutter projects [FlutLab Widget Bay](https://widgetbay.flutlab.io/)
-- Join the discussion and conversation on [FlutLab Facebook Group](https://www.facebook.com/groups/flutlab/)
+Setting key.properties (File for sign in apk) before build :
+- deteksibendaberbahaya/android/app
 
-If you have some questions regarding FlutLab, you can ask on [FlutLab FAQ](https://faq.flutlab.io/)
+How to build :
+- Flutter Pub Get
+- Fluuter build apk --release --target-platform=android-arm Processor your phone example : android-arm for android nugget 7
 
-### Getting Started: Flutter
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This project is a starting point for a Flutter application.
+Are you search Tech Leader (CTO,Senior Manager Developer, Senior Programmer)?
 
-A few resources to get you started if this is your first Flutter project:
+Contacts Me :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Instagram : @anandaraufm.
+- Linkedin : Ananda Rauf Maududi.
+- Email : anandaraufdev@gmail.com
+- Whatsapp : 083879627956.
 
-For help getting started with Flutter, view
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you wanna hire me to be Tech Leader, you must requirement :
+- Min Tech Team : 5
+- If you wanna give presentase Shareholders, let's talk in Zoom / Google Meet / meet me in real life.
+- If you don't have Tech team, and hire me for Full Stack build product Technology, your  company / business must running in public.
+- Hire Me for build your ideas, your must have give me full benefit, example : Health Care, and give me first salary : IDR 50.000.000, one paying, please don't give me Shareholder or please don't contacts me if your startup not register in event Inkubator Startup or your startup just ideas you must deep talk to me in real life, not in social media.
+
+Thanks for read,
+
+Regards,
+
+Ananda Rauf Maududi
+
+
+
