@@ -4,7 +4,7 @@ Sini Dek Bentar Sistem Informasi Deteksi Benda Berbahaya
 
 
 Developed date : 05 Oktober 2021.
-Developed by : Ananda Rauf Maududi / Media Pengembangan Teknolgi Indonesia Jaya.
+Developed by : Ananda Rauf Maududi / Media Pengembangan Teknologi Indonesia Jaya.
 Release date : 18 Oktober 2021.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
